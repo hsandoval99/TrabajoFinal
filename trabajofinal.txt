@@ -3,6 +3,8 @@
  Ejecutar validación para devolver diferencia
 	Regla_1
 	Regla_2
+	Regla_3
+	Regla_4
 
 Asignar diferencia a reporte final
 
