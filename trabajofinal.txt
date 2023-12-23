@@ -1,0 +1,9 @@
+<INICIO>
+ Realizar comparación de la data proyectada y ejecutada
+ Ejecutar validación para devolver diferencia
+	Regla_1
+	Regla_2
+
+Asignar diferencia a reporte final
+
+<FIN>
